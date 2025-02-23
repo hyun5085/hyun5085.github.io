@@ -116,12 +116,11 @@ author:
   name             : "HyunJG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "It doesn't stop"
-  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.ksw9250@naver.com"
+      url: "mailto:ksw9250@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
