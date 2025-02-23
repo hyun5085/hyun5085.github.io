@@ -114,13 +114,13 @@ analytics:
 # Site Author
 author:
   name             : "HyunJG"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/사모예드.png
   bio              : "It doesn't stop"
   email            : "ksw9250@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ksw9250@naver.com"
+       # url: "https://your-website.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
