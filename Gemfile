@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3"
 
-gem "jekyll-theme-hydejack", "~> 9.1"
+# gem "jekyll-theme-hydejack", "~> 9.1"
 
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
@@ -42,6 +42,10 @@ gem "webrick"
 # gem "classifier-reborn"
 
 group :jekyll_plugins do
+# GitHub Pages와 원격 테마(remote_theme) 플러그인 사용
+  gem "github-pages"
+  gem "jekyll-remote-theme"
+
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
