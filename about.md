@@ -150,7 +150,7 @@ Use the the form below to purchase Hydejack PRO:
 [search]: https://hydejack.com/#_search-input
 [grid]: https://hydejack.com/blog/hydejack/
 
-[lic]: LICENSE.md
+[lic]: privacy-policy.md
 [pro]: licenses/PRO.md
 [docs]: project/README.md
 [ofln]: project/advanced.md#enabling-offline-support
