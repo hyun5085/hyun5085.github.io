@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Example Content
+layout: page
+title: Build
 description: >
   스마트 차량 생산 추적 시스템 (OSID) 최종 프로젝트를 정리한 내용입니다.
+hide_description: true
 sitemap: false
-hide_last_modified: true
 ---
 # 스마트 차량 생산 추적 시스템 (OSID) 프로젝트
 ![오생이들 팀 로고](/assets/img/blog/tim-logo-white.png)
@@ -18,21 +18,21 @@ hide_last_modified: true
 ## 1. 프로젝트 개요
 
 - **배경 및 목적**
-  - 기존 차량 주문 서비스는 생산 단계·출고일 확인 불가
-  - OSID(One-Stop Integrated Delivery): 고객이 주문부터 생산·출고 전 과정을 실시간 확인
-  - 본사·지점·딜러·고객 간 정보 비대칭 해소 → 업무 효율·고객 신뢰↑
+    - 기존 차량 주문 서비스는 생산 단계·출고일 확인 불가
+    - OSID(One-Stop Integrated Delivery): 고객이 주문부터 생산·출고 전 과정을 실시간 확인
+    - 본사·지점·딜러·고객 간 정보 비대칭 해소 → 업무 효율·고객 신뢰↑
 
 - **핵심 기능**
-  1. **실시간 생산 추적** (Order → Production → Delivery)
-  2. **역할별 접근 제어** (Master, Dealer, User)
-  3. **ML 기반 출고 예측** (생산 일정 예측)
-  4. **결제·알림 시스템** (PortOne 연동 + RabbitMQ 이벤트 처리)
+    1. **실시간 생산 추적** (Order → Production → Delivery)
+    2. **역할별 접근 제어** (Master, Dealer, User)
+    3. **ML 기반 출고 예측** (생산 일정 예측)
+    4. **결제·알림 시스템** (PortOne 연동 + RabbitMQ 이벤트 처리)
 
 - **기대 효과**
-  - 고객 만족도↑ (출고 예측 제공)
-  - 업무 효율성↑ (자동화된 정보 공유)
-  - 생산 계획 최적화 (병목 최소화)
-  - 타 제조업(가구·의료기기 등)으로 확장 가능
+    - 고객 만족도↑ (출고 예측 제공)
+    - 업무 효율성↑ (자동화된 정보 공유)
+    - 생산 계획 최적화 (병목 최소화)
+    - 타 제조업(가구·의료기기 등)으로 확장 가능
 
 ---
 

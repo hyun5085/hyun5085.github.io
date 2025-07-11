@@ -2,22 +2,16 @@
 layout: page
 title: Documentation
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  주요 프로젝트 모음입니다. 아래 목록에서 각 프로젝트의 상세 문서를 확인하세요.
 hide_description: true
 sitemap: false
 permalink: /projects/
 ---
-
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
-
-
-## Getting started
+## 🗂️ 프로젝트 목록
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [OSID]{:.heading.flip-title} --- 스마트 차량 생산 추적 시스템 (One-Stop Integrated Delivery) 최종 프로젝트
 {:.related-posts.faded}
 
 ## Using Hydejack
@@ -47,3 +41,4 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [LICENSE]: ../privacy-policy.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
+[OSID]: ../osid.md
