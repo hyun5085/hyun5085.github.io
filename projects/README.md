@@ -41,4 +41,4 @@ permalink: /projects/
 [LICENSE]: ../privacy-policy.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
-[OSID]: ../osid.md
+[OSID]: ../OSID.md
