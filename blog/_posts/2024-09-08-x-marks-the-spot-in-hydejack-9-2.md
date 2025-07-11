@@ -41,7 +41,7 @@ There are also many new social media networks, some of which are now included by
 | wechat | <span class="larger icon-wechat"></span> | discord | <span class="larger icon-discord"></span> |
 | mastodon | <span class="larger icon-mastodon"></span> | twitter | <span class="larger icon-twitter"></span> |
 
-If your perferred network is missing, note that you can always [follow the steps to add custom icons](../../docs/advanced.md#adding-a-custom-social-media-icon) from the docs, which is what I did for this release.
+If your perferred network is missing, note that you can always [follow the steps to add custom icons](../../projects/advanced.md#adding-a-custom-social-media-icon) from the docs, which is what I did for this release.
 
 
 ## Dark Mode is Now Free
@@ -53,11 +53,11 @@ starting with Hydejack 9.2, dark mode is included in all versions of Hydejack.
 
 ## Updated Docs
 The documentation has been updated with a focus on deployment via GitHub Actions and CI pipelines. 
-I've added a chapter on how to [Deploy](../../docs/deploy.md){:.heading.flip-title} and updated many of the existing chapters.
+I've added a chapter on how to [Deploy](../../projects/deploy.md){:.heading.flip-title} and updated many of the existing chapters.
 
 The deployment experience for __PRO customers__ has also been improved. You are now automatically added to a "PRO Customers" team on GitHub if you provide a GitHub username during checkout (existing customers can request an invite through [mail@hydejack.com](mailto:mail@hydejack.com)).
 Members of this team have read access to the pro repository, which allows the theme to be fetched during a CI run. 
-For detail, check out the new [Deploy](../../docs/deploy.md){:.heading.flip-title} chapter.
+For detail, check out the new [Deploy](../../projects/deploy.md){:.heading.flip-title} chapter.
 
 
 ## Google Fonts Off by Default
@@ -76,5 +76,5 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 On a related note, I've also decided against updating the included Google Analytics script, in part because the upgrade path is incomprehensible, but also due the the same privacy concerns that make Google Fonts a bad default option. I recommend independent analytics services like 
 [Plausible](https://plausible.io), [Matomo](https://matomo.org/) or maybe even [Counterscale](https://counterscale.dev) (if you are a Cloudflare customer).
-You can include the tracking scripts by [adding them as custom HTML](../../docs/basics.md#adding-custom-html-to-the-head).
+You can include the tracking scripts by [adding them as custom HTML](../../projects/basics.md#adding-custom-html-to-the-head).
 

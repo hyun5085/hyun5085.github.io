@@ -139,7 +139,7 @@ Version 9.1 provides minor design changes, new features, and closes multiple iss
     ![Download Buttons](/assets/img/blog/9.1.0-3.png){:.border.lead width="1776" height="258" loading="lazy"}
 
     Add the following to the front matter. Note that the PDF needs to be pre-generated. 
-    See [the docs](docs/basics.md#downloads) for more.
+    See [the docs](projects/basics.md#downloads) for more.
 
     ```yml
     # file: "resume.md"
@@ -236,7 +236,7 @@ July 7 2020
 July 6 2020
 {:.heading.post-date}
 
-* Changing app icons has been revamped. See [this section](docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
+* Changing app icons has been revamped. See [this section](projects/config.md#adding-custom-favicons-and-app-icons) in the docs.
 * Changed default icons
 * Changed default sidebar background
 * Added `jekyll-compose` defaults to config file
@@ -288,7 +288,7 @@ July 7 2020
 July 6 2020
 {:.heading.post-date}
 
-* Changing app icons has been revamped. See [this section](docs/config.md#adding-custom-favicons-and-app-icons) in the docs.
+* Changing app icons has been revamped. See [this section](projects/config.md#adding-custom-favicons-and-app-icons) in the docs.
 * Changed default icons
 * Changed default sidebar background
 * Added `jekyll-compose` defaults to config file
@@ -345,7 +345,7 @@ July 3 2020
 ### Minor
 * CSS variables are now configurable via `_data/variables.yml`. While there are other ways to change them, this has the broadest reach across HTML (`img[sizes]` attribute!), CSS and JS.
 * Many JS content features (such as `#` heading links) now work even when `hydejack.no_push_state` is enabled.
-* Linking to posts in the `home` and `post` layout now accept either paths or URLs. [Read more](docs/basics.md#adding-related-posts-to-a-post).
+* Linking to posts in the `home` and `post` layout now accept either paths or URLs. [Read more](projects/basics.md#adding-related-posts-to-a-post).
 * The star icons in the resume layout can now be disabled via `no_skill_icons` and `no_language_icons`.
 * Resume layout now supports the following keys: `born`, `citizenship`, and `maritalStatus`.
 * PRO only: Added `hide_dates` option to disable showing blog post dates.
@@ -372,7 +372,7 @@ July 3 2020
 * The content width is now larger across screen sizes (can be configured in `_sass/_variables.scss`)
 * The link style has been changed to make picking accent colors easier for dark mode. It's also possible to link images now without worrying about underlines.
 * The amount of whitespace has been reduced. Previously it had been increased but it felt too much.
-* Added a [`note` class](docs/writing.md#adding-notes) that succeeds the `message` for adding auxillary content. The `message` class still exists.
+* Added a [`note` class](projects/writing.md#adding-notes) that succeeds the `message` for adding auxillary content. The `message` class still exists.
 * The navbar buttons made to look more like buttons
 * Dark mode colors have been toned down a bit
 * Improved dark mode text rendering on macOS
@@ -579,7 +579,7 @@ So far Hydejack has been a decent Jekyll theme, but with v8 it really starts sta
   This will cause hy-img to render a placeholder of 800 by 600 `px`, preventing the document height from changing after the image has finished loading.
 
 * Added experimental offline support via Service Workers. Use with care!
-  For details, [read the docs](docs/advanced.md#enabling-offline-support).
+  For details, [read the docs](projects/advanced.md#enabling-offline-support).
 
 * Added the `figure` CSS class, which allows images to have nicer-looking captions. E.g.
 
@@ -854,7 +854,7 @@ That being said, you should be aware of these (small) breaking changes:
 * Event names described in the scripting chapter have changed from `y-push-state-*` to `hy-push-state-*`,
   except `y-push-state-animationend`, which has been removed. See the [docs][pstate] for more.
 
-[pstate]: docs/scripts.md#registering-push-state-event-listeners
+[pstate]: projects/scripts.md#registering-push-state-event-listeners
 
 ### Changes
 * `image` has been renamed to `accent_image`, but `image` continues to work unless you add the `jekyll-seo-tag` plugin.
@@ -1053,7 +1053,7 @@ That being said, you should be aware of these (small) breaking changes:
 * Reduced building time during development.
   Roughly 50% of the time was spent rebuilding the inline CSS, which is now built once and included via `link` tag.
   Production builds still inlines CSS, so the building speed remains unchanged.
-  For more on how to improve building speeds, [see here](docs/writing.md#a-word-on-building-speeds).
+  For more on how to improve building speeds, [see here](projects/writing.md#a-word-on-building-speeds).
 
 ### Design
 * The default background image is no longer anti-selling the theme...
@@ -1491,9 +1491,9 @@ Oct 15 2013
 {:.heading.post-date}
 
 [tag]: http://www.minddust.com/post/tags-and-categories-on-github-pages/
-[migration]: docs/upgrade.md
-[writing]: docs/writing.md
-[scripts]: docs/scripts.md
+[migration]: projects/upgrade.md
+[writing]: projects/writing.md
+[scripts]: projects/scripts.md
 
 [buy]: https://app.simplegoods.co/i/AQTTVBOE
 [PRO-license]: licenses/PRO.md
