@@ -51,7 +51,7 @@ menu:
   - title:             Blog
     url:               /example/
   - title:             Project
-    url:               /project/
+    url:               /docs/
   - title:             About
     url:               /about/
 
