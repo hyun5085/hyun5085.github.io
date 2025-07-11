@@ -60,10 +60,10 @@ menu:
 legal:
   - title:             Privacy Policy
     url:               /privacy-policy/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: "© {{ site.time | date: '%Y' }} Hyun. All rights reserved."
