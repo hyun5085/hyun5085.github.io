@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Build
+title: OSID
 description: >
   스마트 차량 생산 추적 시스템 (OSID) 최종 프로젝트를 정리한 내용입니다.
 hide_description: true
