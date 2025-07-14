@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/Samoyed.jpg
 description: >
   이 블로그에서는 다양한 기술 프로젝트와 실전 경험을 공유합니다.
 hide_description: true
