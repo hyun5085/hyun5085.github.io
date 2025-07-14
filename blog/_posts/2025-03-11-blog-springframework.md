@@ -4,7 +4,7 @@ title: Spring 핵심 개념 및 활용 가이드
 description: >
   Spring Framework의 주요 기능과 활용 예제를 한 번에 정리합니다.
   IoC/DI, Validation, 보안(Authentication/Authorization), JPA 매핑, 메시지 변환, 예외 처리 등 필수 개념을 다룹니다.
-image: /assets/img/blog/java.png
+image: /assets/img/blog/Spring_framework.png
 sitemap: false
 ---
 # Spring 핵심 개념 및 활용 가이드
