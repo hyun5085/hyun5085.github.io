@@ -14,5 +14,5 @@ permalink: /projects/
 {:.related-posts.faded}
 
 [OSID]: OSID.md
-[Session vs JWT + Spring Security]: JWTvsSession.md
+[Session vs JWT+Spring Security]: JWTvsSession.md
 [OSID 배포 & CI/CD 최적화]: osid-deploy.md
