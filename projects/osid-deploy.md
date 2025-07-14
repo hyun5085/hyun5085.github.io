@@ -8,7 +8,7 @@ description: >
 hide_description: true
 sitemap: false
 ---
-# OSID 배포 & CI/CD 최적화 5분 브리핑
+# OSID 배포 & CI/CD 최적화
 
 <figure style="text-align:center; margin:1em 0;">
   <img src="/assets/img/blog/before-deploy-metrics.png" alt="배포 전 모니터링 지표" style="max-width:80%;"/>
