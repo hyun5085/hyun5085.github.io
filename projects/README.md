@@ -9,8 +9,10 @@ permalink: /projects/
 ---
 ## 🗂️ OSID 프로젝트 
 * [OSID]{:.heading.flip-title} --- 스마트 차량 주문 & 생산 추적 시스템(Order → Production → Delivery) 프로젝트
-* [Session vs JWT + Spring Security]{:.heading.flip-title} --- OSID 서비스에서 선택한 인증 방식(JWT vs Session) 비교 및 기술 선택 이유 정리
+* [Session vs JWT+Spring Security]{:.heading.flip-title} --- OSID 에서 선택한 인증 방식(JWT vs Session) 비교 및 기술 선택 이유 정리
+* [OSID 배포 & CI/CD 최적화]{:.heading.flip-title} --- AWS Free Tier 환경에서의 CI/CD 파이프라인 최적화
 {:.related-posts.faded}
 
 [OSID]: OSID.md
 [Session vs JWT + Spring Security]: JWTvsSession.md
+[OSID 배포 & CI/CD 최적화]: osid-deploy.md
