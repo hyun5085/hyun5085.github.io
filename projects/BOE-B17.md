@@ -6,7 +6,7 @@ description: >
 hide_description: true
 sitemap: false
 ---
-# [2017'01~2017'10] BOE B17 PROJECT
+# [2019'01~2019'05] BOE B17 PROJECT
 
 <img src="/assets/img/blog/ShinsungFA.jpeg" alt="신성FA(음성)" style="max-width:100%; height:auto; margin: 1em 0;" />
 
