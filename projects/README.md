@@ -9,6 +9,7 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [BOE_B12]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B12 PROJECT
 * [HKC_H4]{:.heading.flip-title} --- HKC(중국) HKC_H4 PROJECT
 * [BOE_B11]{:.heading.flip-title} --- BOE(중국) BOE_B11 PROJECT
 * [BOE_B17]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B17 PROJECT
@@ -30,4 +31,5 @@ permalink: /projects/
 [BOE_B7]: BOE-B7.md
 [BOE_B17]: BOE-B17.md
 [BOE_B11]: BOE-B11.md
+[BOE_B12]: BOE-B12.md
 [HKC_H4]: HKC-H4.md
