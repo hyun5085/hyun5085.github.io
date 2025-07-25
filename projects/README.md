@@ -9,12 +9,13 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [HKC_H4]{:.heading.flip-title} --- HKC(중국) HKC_H4 PROJECT
 * [BOE_B11]{:.heading.flip-title} --- BOE(중국) BOE_B11 PROJECT
 * [BOE_B17]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B17 PROJECT
 * [BOE_B7]{:.heading.flip-title} --- BOE(중국) BOE_B7 PROJECT
 * [SDC_A2]{:.heading.flip-title} --- SAMSUNG SDC_A2 물류 PROJECT
 
-## 🗂️ OSID 프로젝트 
+## 🗂️ JAVA 프로젝트 
 * [OSID]{:.heading.flip-title} --- 스마트 차량 주문 & 생산 추적 시스템(Order → Production → Delivery) 프로젝트
 * [Session vs JWT+Spring Security]{:.heading.flip-title} --- OSID 에서 선택한 인증 방식(JWT vs Session) 비교 및 기술 선택 이유 정리
 * [OSID 배포 & CI/CD 최적화]{:.heading.flip-title} --- AWS Free Tier 환경에서의 CI/CD 파이프라인 최적화
@@ -29,3 +30,4 @@ permalink: /projects/
 [BOE_B7]: BOE-B7.md
 [BOE_B17]: BOE-B17.md
 [BOE_B11]: BOE-B11.md
+[HKC_H4]: HKC-H4.md
