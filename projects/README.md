@@ -9,6 +9,7 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [SKON_OH2]{:.heading.flip-title} --- SKON(헝가리) OH2 AGV SmartFactory PROJECT
 * [KET_Nut]{:.heading.flip-title} --- KET(평택) Nut Insert 설비 개발 PROJECT
 * [HKC_H4_210K]{:.heading.flip-title} --- HKC(중국) HKC_H4_210K PROJECT
 * [CSOT_T7]{:.heading.flip-title} --- CSOT(중국) CSOT_T7_Ph2 PROJECT
@@ -45,3 +46,4 @@ permalink: /projects/
 [CSOT_T7]: CSOT-T7-ph2.md
 [HKC_H4_210K]: HKC-H4-210K.md
 [KET_Nut]: KET-Nut.md
+[SKON_OH2]: SKON-OH2.md
