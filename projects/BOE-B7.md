@@ -8,7 +8,7 @@ sitemap: false
 ---
 # [2017'01~2017'10] BOE B7 PROJECT
 
-<img src="/assets/img/blog/BOE_Chengdu.jpg" alt="삼성디스플레이 아산캠퍼스" style="max-width:100%; height:auto; margin: 1em 0;" />
+<img src="/assets/img/blog/BOE_Chengdu.jpg" alt="중국 BOE(청두)" style="max-width:100%; height:auto; margin: 1em 0;" />
 
 - **End User**: [중국] BOE
 - **Customer**: 신성에프에이
