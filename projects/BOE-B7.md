@@ -2,7 +2,7 @@
 layout: page
 title: SDC_A2 PROJECT
 description: >
-  SDC A2 물류 수행 실적을 정리합니다.
+  BOE B7 물류 수행 실적을 정리합니다.
 hide_description: true
 sitemap: false
 ---
