@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDC_A2 PROJECT
+title: BOE_B7 PROJECT
 description: >
   BOE B7 물류 수행 실적을 정리합니다.
 hide_description: true
