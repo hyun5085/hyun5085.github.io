@@ -9,6 +9,8 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [CSOT_T7]{:.heading.flip-title} --- CSOT(중국) CSOT_T7_Ph2 PROJECT
+* [BOE_B12_Ph3]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B12_Ph3 PROJECT
 * [SEC_창고물류]{:.heading.flip-title} --- SAMSUNG SEC_창고물류 PROJECT
 * [SEC_S53F]{:.heading.flip-title} --- SAMSUNG SEC_S53F PROJECT
 * [BOE_B12]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B12 PROJECT
@@ -37,3 +39,5 @@ permalink: /projects/
 [HKC_H4]: HKC-H4.md
 [SEC_S53F]: SEC-S53F.md
 [SEC_창고물류]: SEC-Warehouse.md
+[BOE_B12_Ph3]: BOE-B12-TSP.md
+[CSOT_T7]: CSOT-T7-ph2.md
