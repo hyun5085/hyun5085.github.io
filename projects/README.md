@@ -8,7 +8,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-## 🅿️ PLC PROJECT
+## 🅿️ PLC(Programmable Logic Controller) PROJECT
 * [SDC_A2]{:.heading.flip-title} --- SAMSUNG SDC_A2 물류 PROJECT
 
 ## 🗂️ OSID 프로젝트 
