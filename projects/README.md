@@ -9,6 +9,8 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [KET_Nut]{:.heading.flip-title} --- KET(평택) Nut Insert 설비 개발 PROJECT
+* [HKC_H4_210K]{:.heading.flip-title} --- HKC(중국) HKC_H4_210K PROJECT
 * [CSOT_T7]{:.heading.flip-title} --- CSOT(중국) CSOT_T7_Ph2 PROJECT
 * [BOE_B12_Ph3]{:.heading.flip-title} --- BOE(국내 제작~시운전) BOE_B12_Ph3 PROJECT
 * [SEC_창고물류]{:.heading.flip-title} --- SAMSUNG SEC_창고물류 PROJECT
@@ -41,3 +43,5 @@ permalink: /projects/
 [SEC_창고물류]: SEC-Warehouse.md
 [BOE_B12_Ph3]: BOE-B12-TSP.md
 [CSOT_T7]: CSOT-T7-ph2.md
+[HKC_H4_210K]: HKC-H4-210K.md
+[KET_Nut]: KET-Nut.md
