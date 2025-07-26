@@ -16,4 +16,4 @@ sitemap: false
 - **수행 실적**: ARRAY Stocker 11Line
 - **업무 범위**: PM 업무, PLC 제어, 시운전, 셋업, 양산 대응
 - **성과**:
-  - 기존 Ph1 의 Manual 작성이 잘되어 있어 스케줄 단축 (6개월→5개월)
+  - 기존 Ph1 의 Manual 작성이 잘되어 있어 스케줄 단축
