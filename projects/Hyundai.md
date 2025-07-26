@@ -19,7 +19,7 @@ sitemap: false
   - 안전 Issue 해결
     - PLC Logic 수정
     - 전장 공사 관리( Sensor 추가 )
-  - 설비 가동률 85%~88% → 98% 이상
+  - 설비 가동률 향상
     - 자동 창고 AGV 통신 문제 해결
     - 바닥 Issue 대응
     
