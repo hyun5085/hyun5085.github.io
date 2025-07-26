@@ -9,7 +9,6 @@ sitemap: false
 # [2022'12~2024'12] 현대자동차 다차종 생산 시스템 PROJECT
 
 <img src="/assets/img/blog/Hyundai.png" alt="현대차 울산공장 직원이 3공장에서 생산하는 아반떼를 점검하는 모습. <현대차>" style="max-width:100%; height:auto; margin: 1em 0;" />
-<현대차>
 
 - **End User**: [울산] 현대자동차
 - **Customer**: 현대자동차
