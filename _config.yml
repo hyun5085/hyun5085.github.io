@@ -28,9 +28,7 @@ description:           >
   8년 제조 자동화 PLC 엔지니어에서 Java/Spring 백엔드 개발자로 도약하는 Hyun
 
 # A shorter description for the sidebar.
-tagline: PLC 제어(Mitsubishi, OMRON)
-
-PC 제어(JAVA/SPRING)
+tagline: PLC 제어(Mitsubishi, OMRON), PC 제어(JAVA/SPRING)
 
 # A list of keywords for your blog
 keywords:              []
