@@ -9,6 +9,7 @@ permalink: /projects/
 ---
 
 ## 🅿️ PLC(Programmable Logic Controller) PROJECT
+* [현대자동차_다차종]{:.heading.flip-title} --- 현대자동차(울산) 다차종 시스템 PROJECT
 * [SKON_OH2]{:.heading.flip-title} --- SKON(헝가리) OH2 AGV SmartFactory PROJECT
 * [KET_Nut]{:.heading.flip-title} --- KET(평택) Nut Insert 설비 개발 PROJECT
 * [HKC_H4_210K]{:.heading.flip-title} --- HKC(중국) HKC_H4_210K PROJECT
@@ -47,3 +48,4 @@ permalink: /projects/
 [HKC_H4_210K]: HKC-H4-210K.md
 [KET_Nut]: KET-Nut.md
 [SKON_OH2]: SKON-OH2.md
+[현대자동차_다차종]: Hyundai.md
